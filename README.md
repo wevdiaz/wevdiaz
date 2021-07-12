@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 
 ##### :smiley: I played a little
 
-<img  alt="imagem Typescript" height="35" width="35"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img  alt="imagem Typescript" height="35" width="35"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">  <img  alt="imagem Typescript" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+
 
 ***
 
